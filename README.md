@@ -1,9 +1,9 @@
 # PENDING WORK to be done 
 
 
-## Improving the UI using HTML CSS JS for a greater attractive LOOK
-## Make sure to raise the issues and then make the contributions 
- #Lets make it A GREAT UI
+1) Improving the UI using HTML CSS JS for a greater attractive LOOK
+2) Make sure to raise the issues and then make the contributions 
+3)Lets make it A GREAT UI
 
 
 
